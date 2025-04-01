@@ -1,3 +1,5 @@
+**IMAGE ENCRYPTION**
+
 Image Encryption/Decryption Tool (XOR-based)
 This repository contains a Python script that implements a simple encryption and decryption tool for image files. The core of the tool uses the XOR (exclusive OR) operation with a user-defined key to modify the pixel values of the image. The XOR operation is symmetric, meaning the same key is used for both encryption and decryption.
 
